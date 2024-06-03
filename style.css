@@ -1,0 +1,25 @@
+*{
+    text-align: center;
+}
+
+button{
+    cursor: pointer;
+    border: none;
+    margin:10px;
+    border-radius: 5px;
+}
+
+img{
+    height:120px;
+}
+
+button:hover{
+    background-color: rgb(169, 187, 202);
+}
+
+.reset{
+    height: 30px;
+    width: 50px;
+    background-color: rgb(183, 132, 231);
+    color:white;
+}
